@@ -1,0 +1,16 @@
+0 Null_SAP
+514 LLC_Sublayer_Management/Individual
+771 LLC_Sublayer_Management/Group
+1542 IP_(DoD_Internet_Protocol)
+3598 PROWAY_(IEC_955)_Network_Management,Maintenence_and_Installation
+16962 BPDU(Bridge_PDU/802.1_Spanning_Tree)
+20046 MMS(Manufacturing_Message_Service)_EIA-RS_511
+24158 ISI_IP
+32382 X.25_PLP_(ISO_8208)
+36494 PROWAY_(IEC_955)_Active_Station_List_Maintenence
+43690 SNAP
+57568 IPX
+62708 LAN
+65278 ISO
+65535 RAW
+420420 Unknown
